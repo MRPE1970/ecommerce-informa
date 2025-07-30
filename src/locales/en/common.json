@@ -1,0 +1,1 @@
+{ "catalog.title": "Software Catalog", "form.title": "New Product", "form.success": "Product saved successfully!", "form.name_placeholder": "Software name", "form.description_placeholder": "Description", "form.price_placeholder": "Price (USD)", "form.discount_placeholder": "Discount", "form.submit": "Save" }

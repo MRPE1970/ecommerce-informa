@@ -1,0 +1,1 @@
+// NewProductPage logic placeholder

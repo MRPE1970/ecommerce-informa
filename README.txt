@@ -1,0 +1,1 @@
+Projeto Informa Solutions - E-commerce com Firebase, Tailwind e i18n
