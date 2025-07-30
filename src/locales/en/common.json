@@ -1,1 +1,16 @@
-{ "catalog.title": "Software Catalog", "form.title": "New Product", "form.success": "Product saved successfully!", "form.name_placeholder": "Software name", "form.description_placeholder": "Description", "form.price_placeholder": "Price (USD)", "form.discount_placeholder": "Discount", "form.submit": "Save" }
+{
+  "home": {
+    "title": "Welcome to the Software E-commerce",
+    "description": "Find and purchase software developed by Informa Solutions with ease and security.",
+    "view_catalog": "View Catalog",
+    "admin_area": "Admin Area"
+  },
+  "catalog": {
+    "title": "Software Catalog",
+    "empty": "No software available at the moment."
+  },
+  "admin": {
+    "title": "Admin Area",
+    "instructions": "Use this area to register and manage software products."
+  }
+}

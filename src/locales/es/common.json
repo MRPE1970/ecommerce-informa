@@ -1,1 +1,16 @@
-{ "catalog.title": "Catálogo de Software", "form.title": "Nuevo Producto", "form.success": "¡Producto guardado con éxito!", "form.name_placeholder": "Nombre del software", "form.description_placeholder": "Descripción", "form.price_placeholder": "Precio (USD)", "form.discount_placeholder": "Descuento", "form.submit": "Guardar" }
+{
+  "home": {
+    "title": "Bienvenido al E-commerce de Software",
+    "description": "Encuentra y adquiere software desarrollado por Informa Solutions con facilidad y seguridad.",
+    "view_catalog": "Ver Catálogo",
+    "admin_area": "Área de Administración"
+  },
+  "catalog": {
+    "title": "Catálogo de Software",
+    "empty": "No hay software disponible en este momento."
+  },
+  "admin": {
+    "title": "Área de Administración",
+    "instructions": "Usa esta área para registrar y gestionar productos de software."
+  }
+}
