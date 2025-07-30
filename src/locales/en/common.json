@@ -11,6 +11,8 @@
   },
   "admin": {
     "title": "Admin Area",
-    "instructions": "Use this area to register and manage software products."
+    "instructions": "Use this area to register and manage software products.",
+    "login_prompt": "Enter the password to access the admin area.",
+    "login_button": "Login"
   }
 }

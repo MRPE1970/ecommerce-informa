@@ -11,6 +11,8 @@
   },
   "admin": {
     "title": "Área de Administración",
-    "instructions": "Usa esta área para registrar y gestionar productos de software."
+    "instructions": "Usa esta área para registrar y gestionar productos de software.",
+    "login_prompt": "Ingrese la contraseña para acceder al área de administración.",
+    "login_button": "Entrar"
   }
 }

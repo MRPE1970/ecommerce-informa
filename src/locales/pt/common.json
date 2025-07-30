@@ -18,6 +18,8 @@
     "price": "Valor (USD)",
     "discount": "Desconto (%)",
     "net_value": "Valor Líquido (USD)",
-    "save": "Salvar"
+    "save": "Salvar",
+    "login_prompt": "Insira a senha para acessar a área administrativa.",
+    "login_button": "Entrar"
   }
 }
